@@ -29,23 +29,23 @@ CSE (AI & ML) Student | Aspiring AI/ML Engineer | Front-End Developer
 
 ---
 
-## 🚀 Featured Interests
+##  Featured Interests
 
-🤖 **AI & Machine Learning**  
-🌐 **Front-End Development**  
-🐍 **Python Development**  
-📊 **Data & Technology**  
-🎬 **Video Editing**  
-✨ **Motion Graphics**  
-🎵 **Music Production**
+ **AI & Machine Learning**  
+ **Front-End Development**  
+ **Python Development**  
+ **Data & Technology**  
+ **Video Editing**  
+ **Motion Graphics**  
+ **Music Production**
 
 ---
 
 ## 📌 Featured Project
 
-###  AI-Based Industrial Pollution & Biodiversity Monitoring System
-###  Movie Review System
-###  space app
+###  🔹AI-Based Industrial Pollution & Biodiversity Monitoring System
+###  🔹Movie Review System
+###  🔹space app
 
 
 ---
