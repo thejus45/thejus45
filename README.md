@@ -8,20 +8,18 @@ CSE (AI & ML) Student | Aspiring AI/ML Engineer | Front-End Developer
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Computer Science & Engineering student specializing in **AI & ML**
-- 🤖 Interested in **Artificial Intelligence and Machine Learning**
-- 🌐 Exploring **Front-End & Web Development**
-- 🐍 Building my programming skills with **Python**
-- ☕ Familiar with **Java**
-- 📊 Currently learning and improving my technical skills
-- 🎬 Interested in **Video Editing, Motion Graphics & Creative Technology**
-- 🚀 I enjoy combining **technology and creativity** to build interesting projects
+-  Computer Science & Engineering student specializing in **AI & ML**
+-  Exploring **Front-End & Web Development**
+-  Building my programming skills with **Python**
+-  Currently learning and improving my technical skills
+-  Interested in **Video Editing,Music Production & Creative Technology**
+- I enjoy combining **technology and creativity** to build interesting projects
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="left">
 
@@ -45,21 +43,10 @@ CSE (AI & ML) Student | Aspiring AI/ML Engineer | Front-End Developer
 
 ## 📌 Featured Project
 
-### 🌱 AI-Based Industrial Pollution & Biodiversity Monitoring System
+###  AI-Based Industrial Pollution & Biodiversity Monitoring System
+###  Movie Review System
+###  space app
 
-An AI/ML-based system designed to analyze environmental data and help assess the environmental impact of industries.
-
-**Key Features**
-
-- Pollution data analysis
-- Pollution trend prediction
-- Abnormal emission detection
-- Biodiversity and forest-cover analysis
-- Carbon-offset tree estimation
-- Sustainability Score calculation
-- Environmental monitoring dashboard
-
-**Technologies:** Python • Machine Learning • Data Analysis • Web Technologies
 
 ---
 
