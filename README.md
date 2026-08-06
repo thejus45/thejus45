@@ -43,7 +43,7 @@ CSE (AI & ML) Student | Aspiring AI/ML Engineer | Front-End Developer
 
 ## 📌 Featured Project
 
-###  🔹AI-Based Industrial Pollution &          #######Biodiversity Monitoring System
+###  🔹AI-Based Industrial Pollution &          ###Biodiversity Monitoring System
 ###  🔹Movie Review System
 ###  🔹space app
 
