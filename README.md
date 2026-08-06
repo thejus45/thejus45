@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Thejus</h1>
+<h1 align="center">Hi , I'm Thejus</h1>
 
 <h3 align="center">
 CSE (AI & ML) Student | Aspiring AI/ML Engineer | Front-End Developer
 </h3>
 
-<p align="center">
-💻 Technology • 🤖 Artificial Intelligence • 🎨 Creative Development
-</p>
+
 
 ---
 
