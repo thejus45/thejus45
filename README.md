@@ -43,24 +43,14 @@ CSE (AI & ML) Student | Aspiring AI/ML Engineer | Front-End Developer
 
 ## 📌 Featured Project
 
-###  🔹AI-Based Industrial Pollution & Biodiversity Monitoring System
+###  🔹AI-Based Industrial Pollution &          #######Biodiversity Monitoring System
 ###  🔹Movie Review System
 ###  🔹space app
 
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thejus45&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejus45&layout=compact&theme=tokyonight" />
-
-</p>
 
 ---
 
