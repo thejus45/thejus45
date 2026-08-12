@@ -13,7 +13,7 @@ CSE (AI & ML) Student | Aspiring AI/ML Engineer | Front-End Developer
 -  Computer Science & Engineering student specializing in **AI & ML**
 -  Exploring **Front-End & Web Development**
 -  Building my programming skills with **Python**
--  Currently learning and improving my technical skills
+-  Currently learning Game Development
 -  Interested in **Video Editing,Music Production & Creative Technology**
 - I enjoy combining **technology and creativity** to build interesting projects
 
